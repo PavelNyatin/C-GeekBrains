@@ -1,0 +1,11 @@
+C:\Users\Pavel\source\repos\Homework3\Homework3\bin\Debug\netcoreapp2.1\Homework3.deps.json
+C:\Users\Pavel\source\repos\Homework3\Homework3\bin\Debug\netcoreapp2.1\Homework3.runtimeconfig.json
+C:\Users\Pavel\source\repos\Homework3\Homework3\bin\Debug\netcoreapp2.1\Homework3.runtimeconfig.dev.json
+C:\Users\Pavel\source\repos\Homework3\Homework3\bin\Debug\netcoreapp2.1\Homework3.dll
+C:\Users\Pavel\source\repos\Homework3\Homework3\bin\Debug\netcoreapp2.1\Homework3.pdb
+C:\Users\Pavel\source\repos\Homework3\Homework3\obj\Debug\netcoreapp2.1\Homework3.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\Homework3\Homework3\obj\Debug\netcoreapp2.1\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Homework3\Homework3\obj\Debug\netcoreapp2.1\Homework3.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\Homework3\Homework3\obj\Debug\netcoreapp2.1\Homework3.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\Homework3\Homework3\obj\Debug\netcoreapp2.1\Homework3.dll
+C:\Users\Pavel\source\repos\Homework3\Homework3\obj\Debug\netcoreapp2.1\Homework3.pdb

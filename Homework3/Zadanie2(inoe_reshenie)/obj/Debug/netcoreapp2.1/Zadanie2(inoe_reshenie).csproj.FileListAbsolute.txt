@@ -1,0 +1,11 @@
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\bin\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).deps.json
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\bin\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).runtimeconfig.json
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\bin\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).runtimeconfig.dev.json
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\bin\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).dll
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\bin\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).pdb
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\obj\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\obj\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\obj\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\obj\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).AssemblyInfo.cs
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\obj\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).dll
+C:\Users\Pavel\source\repos\Homework3\Zadanie2(inoe_reshenie)\obj\Debug\netcoreapp2.1\Zadanie2(inoe_reshenie).pdb
